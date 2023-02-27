@@ -2,13 +2,12 @@
 # React workshop #3: Forms + React Router 
 
 
-👋 Denna workshop har inte så mycket utrymme i Robins bok "The road to React" eftersom vi ska utforska vidare i Reacts ekossytem med React Router och react-hook-form (samt Yup, Zod). För att hantera globalt state en annan viktigt Hookm, useContext. Det är valfritt att använda komponentbibliotek som Chakra, Material UI, eller liknande för att lättare prototypa formulär.
+👋 Denna workshop har inte så mycket utrymme i Robins bok "The road to React" eftersom vi ska utforska vidare i Reacts ekossytem med React Router och react-hook-form (samt Yup, Zod). För att samla in data från alla delsteg som är olika komponenter kommer useContext att användas. Det är valfritt att använda komponentbibliotek som Chakra, Material UI, eller liknande för att lättare prototypa UI för formulär.
 
 * [React-hook-form](https://react-hook-form.com/) tillsammans med [Yup](https://www.npmjs.com/package/yup) eller [Zod](https://github.com/colinhacks/zod)
 * [React Router](https://reactrouter.com/en/main)
 * [React Hook useContext](https://beta.reactjs.org/reference/react/useContext)
 * [Chakra](https://chakra-ui.com/), [Material UI](https://mui.com/)
-
 
 
 # 👩🏽‍💻 Övning: Multi-step formulär
