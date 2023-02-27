@@ -48,11 +48,11 @@ Använd sig av Chakra, Material UI eller liknande för att få tillgängliga och
 
 ## 4. Sätta upp routes
 
-Använd React router och skapa router för steg1, steg2 och resultatsoda. 
+Använd React router och skapa routes för steg1, steg2 och resultatsida. När ett formulär submittas på steg1 eller steg2 ska användaren redirectas till nästa steg. För detta kan du använda hooken useNavigate.
 
 ## 5. Använda useContext 
 
-Sätt upp useContext för en global statehanterare. 
+När ett formulär på steg1 eller steg2 submittas ska data insamlas genom att använda useContext. Datat som samlas in i formuläret ska presenteras på resultatstidan.
 
 
 ### Redovisning:
