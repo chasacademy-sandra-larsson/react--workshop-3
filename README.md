@@ -17,15 +17,15 @@ Syftet med övningen är lära sig skapa formulär m.h.a react-hook-form samt va
 
 Formuläret ska innehålla följande fält:
 
-Namn
-Förnamn
-E-post
-Adress
-Postnummer 
-Ort
-Telefon
-Jag godkänner integritetspolicy  (checkbox)
-Fortsätt (submit-knapp)
+* Namn
+* Förnamn
+* E-post
+* Adress
+* Postnummer 
+* Ort
+* Telefon
+* Jag godkänner integritetspolicy  (checkbox)
+* Fortsätt (submit-knapp)
 
 Du har minst två steg och en resultatsida som visar samtliga uppgifter. Hur formuläret är struktuerar, samt användande av komponentbibliotek väljer du själv. 
 
